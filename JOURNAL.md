@@ -13,4 +13,7 @@ created_at: "2025-07-07"
 
 ![OC5qcGc](https://github.com/user-attachments/assets/f59a4a4e-aba0-4306-9f33-aefef57dc641)
 
-# PCB Design and Schematic (still WIP)
+# PCB Design (heavily WIP)
+
+![KiwiKeyV1](https://github.com/user-attachments/assets/4a94dd53-b5eb-4f1d-bb65-b7824c63b7bc)
+![KiwiKeyV1_back](https://github.com/user-attachments/assets/e63f0498-2eec-462f-b8d8-782d0169768d)
