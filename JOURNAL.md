@@ -15,5 +15,6 @@ created_at: "2025-07-07"
 
 # PCB Design (heavily WIP)
 
-![KiwiKeyV1](https://github.com/user-attachments/assets/4a94dd53-b5eb-4f1d-bb65-b7824c63b7bc)
-![KiwiKeyV1_back](https://github.com/user-attachments/assets/e63f0498-2eec-462f-b8d8-782d0169768d)
+<img src="https://github.com/user-attachments/assets/4a94dd53-b5eb-4f1d-bb65-b7824c63b7bc" width="350" height="420">
+<img src="https://github.com/user-attachments/assets/e63f0498-2eec-462f-b8d8-782d0169768d" width="350" height="349.17">
+
