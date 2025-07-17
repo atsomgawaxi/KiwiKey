@@ -1,4 +1,4 @@
-No.,Quantity,Comment,Designator,Footprint,Value,ManufacturerPart,Manufacturer,SupplierPart,Supplier
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier
 1,2,1µF,C1,C2,C0603,1µF,,,,
 2,1,2.2µF,C3,C0603,2.2µF,,,,
 3,2,20pF,C4,C5,C0603,20pF,,,,
@@ -9,4 +9,4 @@ No.,Quantity,Comment,Designator,Footprint,Value,ManufacturerPart,Manufacturer,Su
 8,1,AMS1117-3.3,U2,SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR,,AMS1117-3.3,PUOLOP(迪浦),C351784,LCSC
 9,2,YTS1C0033BBG01,U3,U4,SW-SMD_YIYUAN_YTS1C003XXX,,YTS1C0033BBG01,YIYUAN(怡远),C5188566,LCSC
 10,1,AM90,USB1,USB-AM-TH_AM90,,AM90,SHOU HAN(首韩),C404965,LCSC
-11,1,25MHz,X1,HC-49US_L11.5-W4.5-P4.88,25MHz,XIHCELNANF-25MHZ,TAITIEN(泰艺电子),C295079,LCSC
+
