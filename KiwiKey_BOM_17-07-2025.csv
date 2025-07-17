@@ -1,5 +1,5 @@
 No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Link
-1,2,1µF,"C1,C2",C0402,1µF,CL05A105KA5NQNC,SAMSUNG(三星),C52923,LCSC,[LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.html?s_z=n_C52923)
+1,2,1µF,"C1,C2",C0402,1µF,CL05A105KA5NQNC,SAMSUNG(三星),C52923,LCSC,"[LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.html?s_z=n_C52923)"
 2,1,2.2µF,C3,C0603,2.2µF,CL10A225KO8NNNC,SAMSUNG(三星),C23630,LCSC,
 3,2,20pF,"C4,C5",C0402,20pF,0402CG200J500NT,FH(风华),C1554,LCSC,
 4,1,22µF,C6,C0603,22µF,CL10A226MQ8NRNC,SAMSUNG(三星),C59461,LCSC,
