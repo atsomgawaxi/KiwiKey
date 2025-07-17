@@ -1,4 +1,4 @@
-No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier
+No.,Quantity,Comment,Designator,Footprint,Value,ManufacturerPart,Manufacturer,Supplier Part,Supplier
 1,2,1µF,C1,C2,C0603,1µF,,,,
 2,1,2.2µF,C3,C0603,2.2µF,,,,
 3,2,20pF,C4,C5,C0603,20pF,,,,
