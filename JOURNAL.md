@@ -18,5 +18,6 @@ But now i've done some fixing in the schematic, and some rerouting on the PCB (V
 
 I still have a lot to fix though, still need to add more stuff, such as decoupling caps, et cetera.
 
+**Time spent: ~7h**
 
 
